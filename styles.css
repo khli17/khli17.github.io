@@ -1,0 +1,28 @@
+body {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+   
+}
+
+
+
+.column{
+    float:left;
+    width: 32.5%;
+    margin-right: 1%;
+    margin-top:5%;
+}
+
+.name-title{
+    font-size: 50px;
+    font-family: Arial;
+
+}
+
+.subtitle {
+    font-family: Arial;
+    border-bottom: 2px solid black;
+}
+
